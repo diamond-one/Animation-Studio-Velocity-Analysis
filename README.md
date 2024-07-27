@@ -1,16 +1,15 @@
-#Animation Studio Velocity Analysis
 
 ## Introduction
-This project analyzes the animation output of three studios—StudioA, StudioB, and StudioC—working on the MBA project. The focus is on identifying disparities in output across different phases (Blocking and Spline) and providing actionable insights to optimize efficiency and standardize output across studios.
+This project analyzes the animation output of three studios—StudioA, StudioB, and StudioC—working on a CG Animated TV Series project. The focus is on identifying disparities in output across different phases (Blocking and Spline) and providing actionable insights to optimize efficiency and standardize output across studios.
 
 ## Data Collection Methodology
 
 **Data Sources and Tools:**
-- The animation output data was collected using Gantt chart software managed by the producers of each team. This software tracked the actual time spent per episode, including days spent addressing notes.
-- This data was then added to a master Excel and fed into Power BI to create a Relational Database for analysis. 
+The animation output data was collected using Gantt chart software managed by each team's producers. This software tracked the actual time spent per episode, including days spent addressing notes.
+- This data was then added to a master Excel file and fed into Power BI to create a relational database for analysis. 
 
 **Timeframe and Scope:**
-- The data collection spanned an 18-month period, covering various episodes within the MBA project.
+- The data collection spanned an 18-month period, covering various episodes within the project.
 
 **Challenges and Considerations:**
 - One significant challenge was accurately capturing the time spent revisiting old shots to address notes. This often delayed current episodes and was sometimes missed in the data collection process.
@@ -30,13 +29,12 @@ This project analyzes the animation output of three studios—StudioA, StudioB, 
 ![consistent_modern_avg_output_blocking](https://github.com/user-attachments/assets/e6b1bdfa-c8ab-46e8-a28a-2704f5d8073f)
 ![consistent_modern_avg_output_spline](https://github.com/user-attachments/assets/8e2866b2-4017-4b53-93cf-86f905f78c8a)
 
-
-
-
 **Solution:**
 - Implement a cross-studio training program to share best practices and techniques used in StudioA.
 - Standardize the workflow processes and tools across studios to minimize disparities.
 - Establish clear performance benchmarks and regular monitoring to ensure consistency in output.
+
+---
 
 ### Story 2: The Impact of Team Size on Output Variability
 
@@ -52,6 +50,8 @@ Example data showing the correlation between headcount and time taken to complet
 - Conduct a thorough analysis of team compositions and workloads to identify optimal team sizes.
 - Introduce flexible team structures that can be adjusted based on project needs to maintain consistent output.
 - Implement a buffer system for staffing, allowing for quick adjustments to team size without impacting the production schedule.
+
+---
 
 ### Story 3: Optimizing Workflow Processes in Different Phases
 
@@ -75,4 +75,4 @@ Example data showing the correlation between headcount and time taken to complet
 
 ## Conclusion
 
-This analysis provides a comprehensive overview of the animation output across different studios and phases. By implementing the suggested solutions, the MBA project can achieve a more standardized and efficient workflow, ultimately leading to higher quality output and timely project completion.
+This analysis provided a comprehensive overview of the animation output across different studios and phases. By implementing the suggested solutions, the project could achieve a more standardized and efficient workflow, ultimately leading to higher quality output and timely project completion.

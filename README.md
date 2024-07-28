@@ -1,3 +1,5 @@
+# Animation Studio Velocity Analysis
+
 ### **Introduction**
 
 This project analyzes the animation output of three studios—StudioA, StudioB, and StudioC—working on a CG Animated TV Series project. The focus is on identifying disparities in output across different phases (Blocking and Spline) and providing actionable insights to optimize efficiency and standardize output across studios. The animation teams, comprising ~100 people spread across three countries, faced unique challenges in coordination and workflow standardization. Addressing these disparities is crucial for meeting project timelines and maintaining high-quality production standards.

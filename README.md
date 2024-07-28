@@ -1,4 +1,5 @@
 # Animation Studio Velocity Analysis
+[See Full Portfolio](https://github.com/diamond-one/Data-Analytics-Portfolio)
 
 ### **Introduction**
 
@@ -65,4 +66,6 @@ The data indicates that each studio has different strengths in various phases. F
 ### **Conclusion**
 
 This analysis provided a comprehensive overview of animation output across different studios and phases. Implementing the suggested solutions, such as cross-studio training, standardizing workflows, and optimizing team sizes, is expected to reduce output variability and enhance efficiency. These improvements will not only lead to higher quality output and timely project completion but also foster a culture of continuous improvement and collaboration. As the project moves forward, continued data collection and analysis will be crucial to maintaining these gains and adapting to new challenges.
+
+[See Full Portfolio](https://github.com/diamond-one/Data-Analytics-Portfolio)
 
